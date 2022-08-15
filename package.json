@@ -1,0 +1,18 @@
+{
+  "name": "introducao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.5.14",
+    "@types/node": "^18.6.4",
+    "live-server": "^1.2.2",
+    "systemjs": "^0.21.6"
+  }
+}

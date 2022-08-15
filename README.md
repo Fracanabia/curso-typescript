@@ -30,7 +30,7 @@ npm init -y
 npm i -s live-server
 ```
 
-````json
+```json
 {
   "name": "introducao",
   "version": "1.0.0",
@@ -45,8 +45,8 @@ npm i -s live-server
   "dependencies": {
     "live-server": "^1.2.2"
   }
-}```
-````
+}
+```
 
 ```bash
 tsc -w
